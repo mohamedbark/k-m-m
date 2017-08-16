@@ -1,0 +1,29 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	background:#fffccb;	
+}	
+main {
+    	background: url('../img/idiot.jpg') no-repeat right top fixed; 
+	position:absolute;
+        background-size: 15em, 15em;
+	
+	width:100%;
+	height:100%;
+}
+table{
+	margin: 7em auto;
+
+
+
+}
+tr,td{
+	border:1px solid black;
+}
+td{
+	background:#fff;		
+	width :8em;
+	height:8em;
+}	
